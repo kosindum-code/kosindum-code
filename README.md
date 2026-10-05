@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kosindu-malshan-2b7249368"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://cozy-rugelach-3438d6.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-176B87?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:kosindum@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-B5473A?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/kosindu-malshan-2b7249368"><img src="https://img.shields.io/badge/LinkedIn-14213D?style=for-the-badge&logo=linkedin&logoColor=78DCCA" alt="LinkedIn profile" /></a>&nbsp;&nbsp;
+  <a href="https://cozy-rugelach-3438d6.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-14213D?style=for-the-badge&logo=googlechrome&logoColor=78DCCA" alt="Portfolio website" /></a>&nbsp;&nbsp;
+  <a href="mailto:kosindum@gmail.com"><img src="https://img.shields.io/badge/Email-14213D?style=for-the-badge&logo=gmail&logoColor=78DCCA" alt="Email" /></a>
 </p>
 
 ## About
