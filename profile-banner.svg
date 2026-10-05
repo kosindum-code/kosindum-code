@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Kosindu Malshan — IT undergraduate and aspiring software developer</title>
+  <desc id="desc">A dark navy banner with a teal accent, introducing Kosindu Malshan as an IT undergraduate at SLIIT and aspiring software developer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101827"/>
+      <stop offset="100%" stop-color="#172d3e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#59c3c3"/>
+      <stop offset="100%" stop-color="#73a7e8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="1030" cy="20" r="250" fill="#58a6ff" opacity="0.07"/>
+  <circle cx="1100" cy="270" r="190" fill="#59c3c3" opacity="0.08"/>
+  <rect x="72" y="67" width="5" height="154" rx="2.5" fill="url(#accent)"/>
+  <text x="104" y="126" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="0.4">Kosindu Malshan</text>
+  <text x="106" y="171" fill="#b7c9d9" font-family="Segoe UI, Arial, sans-serif" font-size="22">IT Undergraduate at SLIIT  ·  Aspiring Software Developer</text>
+  <text x="106" y="207" fill="#8ea3b8" font-family="Segoe UI, Arial, sans-serif" font-size="17">Building practical projects with Java, Spring Boot and TypeScript</text>
+  <rect x="106" y="235" width="136" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
