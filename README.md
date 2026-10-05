@@ -2,11 +2,13 @@
   <img src="./profile-banner.svg" alt="Kosindu Malshan — IT undergraduate and aspiring software developer" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kosindu-malshan-2b7249368"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" width="38" height="38" alt="LinkedIn icon" /><br /><sub>LinkedIn</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://cozy-rugelach-3438d6.netlify.app/"><img src="./website-icon.svg" width="38" height="38" alt="Website icon" /><br /><sub>Visit Portfolio Website</sub></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:kosindum@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" height="38" alt="Email icon" /><br /><sub>Email</sub></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="130"><a href="https://www.linkedin.com/in/kosindu-malshan-2b7249368"><img src="./linkedin-icon.svg" width="38" height="38" alt="LinkedIn" /><br /><strong>LinkedIn</strong></a></td>
+    <td align="center" width="180"><a href="https://cozy-rugelach-3438d6.netlify.app/"><img src="./website-icon.svg" width="38" height="38" alt="Website" /><br /><strong>Portfolio Website</strong></a></td>
+    <td align="center" width="130"><a href="mailto:kosindum@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" height="38" alt="Email" /><br /><strong>Email</strong></a></td>
+  </tr>
+</table>
 
 ## About
 
