@@ -29,14 +29,6 @@ I’m an IT undergraduate at **SLIIT** and an aspiring software developer, curre
 | [DigiBank](https://github.com/kosindum-code/digibank_db) | University group project building a digital banking web application module by module. | Java 21 · Spring Boot · Maven |
 | [Green Guest Website](https://github.com/kosindum-code/green-guest-website) | Guesthouse website with a [live demo](https://cozy-rugelach-3438d6.netlify.app/). | TypeScript · CSS · HTML |
 
-## Skills in practice
-
-The map connects technologies to the projects where they appear. It represents project experience, not a formal proficiency rating.
-
-<p align="center">
-  <img src="./skills-project-map.svg" alt="Skills mapped to the DigiBank and Green Guest Website projects" width="100%" />
-</p>
-
 ## 📊 General Stats
 
 <table>
