@@ -42,7 +42,7 @@ The map connects technologies to the projects where they appear. It represents p
 <table>
   <tr>
     <td width="38%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosindum-code&layout=default&langs_count=6&card_width=400&custom_title=Most%20Used%20Languages&bg_color=ffffff&title_color=2f80ed&text_color=434d58&border_color=e4e2e2" alt="Most used languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosindum-code&langs_count=6&card_width=400&custom_title=Most%20Used%20Languages&bg_color=ffffff&title_color=2f80ed&text_color=434d58&border_color=e4e2e2" alt="Most used languages" width="100%" />
     </td>
     <td width="62%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=kosindum-code&show_icons=true&rank_icon=github&custom_title=Kosindu's%20GitHub%20Stats&bg_color=ffffff&title_color=2f80ed&text_color=334155&icon_color=2563eb&border_color=e4e2e2" alt="Kosindu's GitHub statistics" width="100%" />
